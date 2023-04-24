@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nexryai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nexryai.online
+  * I am nexryai (https://keybase.io/nexryai) on keybase.
+  * I have a public key ASAZgyWgky1rsqkkMSwrT2wPcaU-AjqRJun9R9f9PQqZFwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ea1277d9f4f183734cd57dfba0d94fdc646ef6d7e1b796fc79a0fc20a9595ffe0a",
+      "host": "keybase.io",
+      "kid": "0120198325a0932d6bb2a924312c2b4f6c0f71a53e023a9126e9fd47d7fd3d0a99170a",
+      "uid": "f0b3bf9be135f61dddffd73381434419",
+      "username": "nexryai"
+    },
+    "merkle_root": {
+      "ctime": 1671101117,
+      "hash": "0029679bfa54bba0bb384a6da0afae7eb685086e4b5cd10aa22d33711ceabd547c518aa5c98b639491afb207e2682e4d6400b9ec52ea271a0591b2116ecba515",
+      "hash_meta": "99595fb7ba5934463353fe1fe8b7e58e4dd63dfd6da48a62781b028db1359982",
+      "seqno": 23718939
+    },
+    "service": {
+      "entropy": "x04pBx0nNdh4OEdTkdgRNPFs",
+      "hostname": "nexryai.online",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1671101168,
+  "expire_in": 504576000,
+  "prev": "d6ce6cdd2dacfa8fb09379267588f5a36e8949bf36db460c4b9e14f0ae7e841b",
+  "seqno": 69,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGYMloJMta7KpJDEsK09sD3GlPgI6kSbp/UfX/T0KmRcKp3BheWxvYWTESpcCRcQg1s5s3S2s+o+wk3kmdYj1o26JSb8220YMS54U8K5+hBvEIF7PNDPyAKFGxELNk8WmpXqGH0/uGaYCYHOSibsMfJbeAgHCo3NpZ8RANoPdRdtCY5Lkifhp7n2qDgn3eLibDJ37iqXpB047//bWeMbfwvMclit0hxLlrJkFTsKY7KX8xbW93qf/loHxBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFLkD6E6Lh5h2H2Lyux96+n1BpLHsuw6nkMZ53P2Vzj0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nexryai
+
+==================================================================

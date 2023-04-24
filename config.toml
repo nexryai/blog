@@ -1,0 +1,84 @@
+baseURL = 'https://nexryai.online/'
+languageCode = 'ja-jp'
+title = 'nexryai.log'
+copyright = "©2023 nexryai All rights reserved. <br>本ウェブサイトのコンテンツに記載されている商標および名称は、各所有者の商標である可能性があります。<br>"
+#theme = "codex" 
+hasCJKLanguage = true
+theme = "puppet"
+
+
+# Optional params
+[params]
+  # Follow the Hugo date/time format reference here: 
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "Jan 2 2006"
+  Description = "nexryaiのブログ"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  mastodon = "https://misskey.sda1.net/@nexryai"
+  github = "https://github.com/nexryai"
+  gitlab = "https://git.sda1.net/nexryai"
+  email = "mailto:gnomer@tuta.io"
+  # mastodon = "https://mastodon.social/@nickname"
+  # facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  # instagram = "https://instagram.com/<your handle>"
+  # linkedin = "<link to your profile>"
+  # youtube = "https://www.youtube.com/channel/<your channel>"
+  
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported: 
+  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["mastodon", "GitHub", "GitLab", "Email"]
+
+  # Metadata for Twitter cards, defaults to params.twitter
+  # twitterSite = "@<your handle>"
+  # twitterAuthor = "@<your handle>"
+
+  # Set to true to display page title in table of contents in blog posts.
+  showPageTitleInTOC = false
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "home"
+  title = "Home"
+  url = "/"
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "Avout"
+  url = "/about"
+
+[[menu.main]]
+  identifier = "servers"
+  name = "servers"
+  title = "servers"
+  url = "/about/servers"
+
+[[menu.main]]
+  weight = 2
+  identifier = "archives"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+  identifier = "GnuPG"
+  name = "GnuPG"
+  title = "PGP"
+  url = "/about/gpg"
