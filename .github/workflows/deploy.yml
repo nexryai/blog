@@ -8,18 +8,13 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-20.04
-    name: Publish Docs
+    name: Publish blog contents
     permissions:
       contents: read
       deployments: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: setup python env
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
 
       - name: install dependencies
         run: |
@@ -28,6 +23,7 @@ jobs:
       - name: build with hugo
         run: |
           hugo --minify
+          ls -al
       
       - uses: cloudflare/pages-action@1
         with:
