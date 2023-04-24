@@ -27,7 +27,7 @@ jobs:
 
       - name: build with hugo
         run: |
-          hugo
+          hugo --minify
       
       - uses: cloudflare/pages-action@1
         with:
