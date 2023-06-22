@@ -4,7 +4,7 @@ date: 2023-06-22
 draft: false
 slug: 5fbde8b3-dc1e-4376-ad72-5b017269d325
 keywords: ["LUKS", "Linux", "tpm", "cryptsetup", "security"]
-tags: ["LUKS", "Linux", "tpm", "cryptsetup", "security"]
+description: "BitLocker的なのをLinuxでもやりたかった"
 ---
 
 ### 前提条件
