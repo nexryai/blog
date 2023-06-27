@@ -1,0 +1,16 @@
+---
+title: "私とoYoとその周辺の界隈との関係について"
+date: 2023-06-27
+slug: "197260b1-f525-4485-b1f6-45a0adc335c7"
+description: "お気持ちを表明します"
+draft: false
+math: false
+toc: false
+---
+
+本日、AlexandriteOSの元開発者である私(nexryai)がopen.Yeloow.osの開発チームの元メンバーと連絡を取っているとか、
+PlasmaLinuxというディストリビューションの開発団体と関わっているという噂が流れているという情報を耳にしました。<br><br>
+
+誰がこのクレイジーな冗談を思いついたのか知りませんが、私は2023年6月現在どのようなディストリビューションの開発団体、その元メンバーとも直接連絡を取ったことはありません。そもそも連絡先すら知りません。AlexandriteOSは既に開発終了しています。私自信もTwitterアカウントを消してMisskeyに移住しているので今はTwitterのLinux界隈と全く関わっていません。<br><br>
+
+もし他の誰かがそのようなことを主張していたら全て嘘です。この件に関してはこのブログ(nexryai.online)と[@nexryai@misskey.sda1.net](https://misskey.sda1.net/notes/9ghjkm83y5)が発信する情報のみを信頼してください。
