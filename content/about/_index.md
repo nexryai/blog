@@ -45,8 +45,6 @@ nexryaiです。「ネクスライ」と読みます。名前に特に深い意�
 
  
 ## 功績
-<iframe src="https://github-readme-stats.vercel.app/api?username=nexryai&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true" style="width: 50%;height: auto;"></iframe>
-<br>
 <a href="https://www.abuseipdb.com/user/67897" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/67897.svg" alt="AbuseIPDB Contributor Badge" style="width: 328px;">
 </a>
